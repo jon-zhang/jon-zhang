@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jon-zhang
-- 👀 I’m interested in web and mobile development
+- 🤖 I’m interested in web and mobile development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on outdoors projects
 - 📫 How to reach me johnny.zhangyt@gmail.com
